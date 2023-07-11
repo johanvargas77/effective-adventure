@@ -1,2 +1,1 @@
-# effective-adventure
-repositorio de prueba henry 
+Este es repositorio de prueba
